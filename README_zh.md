@@ -14,9 +14,10 @@
 
 1. 参考[Llama3 download](https://github.com/meta-llama/llama3?tab=readme-ov-file#download)下载Meta-Llama-3-8B-Instruct模型, 或者[huggingface](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) / [modelscope](https://modelscope.cn/models/LLM-Research/Meta-Llama-3-8B-Instruct/summary)（国内推荐modelscope）。
 2. 参考[Llama3 quick-start](https://github.com/meta-llama/llama3?tab=readme-ov-file#quick-start)安装Llama3的依赖.
-3. 安装本项目所需依赖：
+3. 克隆本项目并安装所需依赖：
 
     ```bash
+    git clone https://github.com/JinHanLei/LLM-Stream-Service
     pip install flask gradio transformers
     ```
 
