@@ -14,9 +14,10 @@ Take Llama3 for example:
 
 1. Follow [Llama3 download](https://github.com/meta-llama/llama3?tab=readme-ov-file#download) to download Meta-Llama-3-8B-Instruct model, or from [huggingface](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) / [modelscope](https://modelscope.cn/models/LLM-Research/Meta-Llama-3-8B-Instruct/summary).
 2. Follow [Llama3 quick-start](https://github.com/meta-llama/llama3?tab=readme-ov-file#quick-start) to install dependencies for Llama3.
-3. Install dependencies for this repository:
+3. Clone this repository and install dependencies:
 
     ```bash
+    git clone https://github.com/JinHanLei/LLM-Stream-Service
     pip install flask gradio transformers
     ```
 
