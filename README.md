@@ -5,8 +5,9 @@
 **Streaming API** and **Web page** for Large Language Models based on Python.
 
 This repository contains:
-1. Flask API: **REAL** streaming generation of LLM and streaming response interface.
-2. Gradio APP: fast and easy LLM web page.
+1. Transformers streaming generation: **REAL** streaming generation for all pre-trained models (based on transformers).
+2. Flask API: streaming response interface.
+3. Gradio APP: fast and easy LLM web page.
 
 ## Quick Start
 
