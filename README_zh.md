@@ -5,8 +5,9 @@
 完全基于Python的大语言模型（LLM）**流式API**和**网页**。
 
 本项目包含：
-1. Flask API: 真正实现LLM的流式生成和后端流式响应；
-2. Gradio APP: 快速、简单的LLM前端界面。
+1. Transformers流式生成：**真正**实现基于transformers的**所有**预训练模型的流式生成；
+2. Flask API: 后端流式响应；
+3. Gradio APP: 快速、简单的LLM前端界面。
 
 ## Quick Start
 
